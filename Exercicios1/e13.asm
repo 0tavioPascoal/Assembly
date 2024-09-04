@@ -1,0 +1,4 @@
+ORG     0000
+
+MOV     DPTR, #3000h
+MOVX    A, @DPTR

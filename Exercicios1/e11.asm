@@ -1,0 +1,4 @@
+ORG     0000
+
+MOV     DPTR, #2000h
+MOVC     A,@A+DPTR
