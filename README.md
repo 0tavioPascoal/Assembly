@@ -1,21 +1,19 @@
-# GranTiete_Assembly
+# Assembly
 
-Repositorio para minhas aulas de assembly
+## Descrição
 
-# Descrição
+ Repositorio para salvar meu codigos feitos de logica de programação
+ em Assembly utilizando o microcontrolador 8051 de 8 bits
 
-Repositorio para salvar meu codigos feitos da aula de logica de programação
-em Assembly utilizando o microcontrolador 8051 de 8 bits
+## STACKS
 
-# STACKS
+ Assembly
 
-Assembly
-
-# INSTALAÇÃO
+## INSTALAÇÃO
 
 ### Requisitos
 
--8051 microcontrolador
+ 8051 microcontrolador
 
 
 
