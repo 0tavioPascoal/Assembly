@@ -1,3 +1,3 @@
-ORG     0000
+ORG     0000;           //Inicio do codigo na memoria 0000
 
-MOV     DPTR, #1234h
+MOV     DPTR, #1234h;   //Carrega 1234h no Registrador DPTR
